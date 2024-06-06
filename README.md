@@ -11,11 +11,11 @@
 <a href="https://www.linkedin.com/in/camilo-soto-saray-dataanalytics-artificialintelligence-engineering-asum-dm/" target="_blank">
   <img align="center" alt="Camilo Soto | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+<a href="https://www.instagram.com/camiloe.sotos/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:sstamoulis.wd@gmail.com" >
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="csoto981217@gmail.com" >
+  <img align="center" alt="Camilo Soto | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
