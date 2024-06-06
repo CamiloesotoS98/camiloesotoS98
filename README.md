@@ -14,7 +14,7 @@
         <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
     </a>
     <a style="padding-right:8px;" href="https://www.rstudio.com" target="_blank"> 
-        <img src="https://img.icons8.com/ios-filled/50/000000/rstudio.png"/> 
+        <img src="https://raw.githubusercontent.com/rstudio/rstudio/master/src/cpp/desktop-win32/installer/resources/rstudio.ico" width="40" height="40"/> 
     </a>
 </p>
 
